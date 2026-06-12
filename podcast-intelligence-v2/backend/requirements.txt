@@ -10,3 +10,4 @@ python-dotenv>=1.0.1
 openai-whisper>=20231117
 torch>=2.0.0
 yt-dlp>=2023.11.16
+youtube-transcript-api>=0.6.2
