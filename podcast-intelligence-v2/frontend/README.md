@@ -9,6 +9,14 @@ A modern, high-performance client interface for the **Podcast Intelligence Platf
 
 ---
 
+
+## 🚀 Getting Started
+
+### 📦 Installation
+From the `frontend` directory:
+```bash
+# Install dependencies
+npm install
 ## 🎨 Key Frontend Features (What Recruiters Look For)
 
 *   **Next.js 14 App Router Architecture**: Uses clean file-based routing and separates server-rendered wrappers from interactive client-side sub-components (`"use client"`).

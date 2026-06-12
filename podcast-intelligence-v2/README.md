@@ -29,7 +29,7 @@ graph TD
         Llama -->|Semantic Chapter Segments + Sentiment| DB
     end
 
-    FE -->|Poll GET /analyze/{id}| BE
+    FE -->|"Poll GET /analyze/{id}"| BE
     FE -->|POST /api/v1/ask| Chat[AI Chat Engine]
     Chat -->|Retrieves Transcript Context| DB
     Chat -->|RAG Question answering| Llama
