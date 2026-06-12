@@ -197,8 +197,4 @@ docker run -p 8000:8000 --env-file backend/.env podcast-backend
 ### Frontend Production Build
 To prepare the Next.js production build:
 ```bash
-cd frontend
-npm run build
-npm run start
-```
-*Optimized for easy deployment on **Vercel**.*
+LIVE : https://podcast-intelligence-tau.vercel.app/
